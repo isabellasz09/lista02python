@@ -1,0 +1,2 @@
+#escreva um programa que pergunte "Qual u.c você mais gosta?" e na proxima linha a resposta" e gosto de programação e aplicativos". Desenvolva usando apenas uma linha de código
+print("Qual u.c você mais gosta?/nEu gosto de programação de aplicativos")
