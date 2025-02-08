@@ -2,5 +2,5 @@
 salario=750
 aumento=15
 salariototal= salario*aumento
-resultado= (salariototal /100)
+resultado= salario+(salariototal /100)
 print (resultado)
