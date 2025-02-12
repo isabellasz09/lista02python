@@ -25,4 +25,4 @@ print("O faturamento da loja foi de: %d"%faturamento)
  
 #uso do in
 email='isabellacarolina@gmail.com'
-print("@"in"carolina_gmail.com")
+print("@"in"carolina@gmail.com")

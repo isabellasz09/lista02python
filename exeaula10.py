@@ -1,3 +1,9 @@
-num=int(input())
-if num > 10
+num=int(input("Digite seu numero: "))
+if num > 10:
+    print("O numero é maior que 10")
+else: 
+    if num == 10:
+        print("O numero é igual a 10")
+    else: 
+        print("O numero é menor que 10")
 
